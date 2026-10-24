@@ -1,0 +1,13 @@
+{
+  "name": "shamo-dashbet",
+  "version": "1.0.0",
+  "description": "Game Server",
+  "main": "admin_server.js",
+  "scripts": {
+    "start": "node admin_server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
